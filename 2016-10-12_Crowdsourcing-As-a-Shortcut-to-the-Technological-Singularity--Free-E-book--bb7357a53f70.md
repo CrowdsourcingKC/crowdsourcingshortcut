@@ -14,36 +14,6 @@
 
 ### Crowdsourcing As a Shortcut to the Technological Singularity (Free E-book)
 
-</div>
-
-<div class="section-inner sectionLayout--outsetColumn">
-
-<figure name="901b" id="901b" class="graf graf--figure graf--layoutOutsetCenter graf-after--h3 graf--trailing">
-
-<div class="aspectRatioPlaceholder is-locked" style="max-width: 1000px; max-height: 1596px;">![](https://cdn-images-1.medium.com/max/1000/1*mZmyVEFCxqY-5DyJfzAouw.jpeg)</div>
-
-<figcaption class="imageCaption">Ebook Cover</figcaption>
-
-</figure>
-
-</div>
-
-</div>
-
-</section>
-
-<section name="592c" class="section section--body">
-
-<div class="section-divider">
-
-* * *
-
-</div>
-
-<div class="section-content">
-
-<div class="section-inner sectionLayout--insetColumn">
-
 **Table of Contents:**
 
 [_Cover Art_](https://medium.com/@CrowdsourcingKC/bb7357a53f70) _&_ [_FAQs_](https://medium.com/@CrowdsourcingKC/3643b1ab25e6)
