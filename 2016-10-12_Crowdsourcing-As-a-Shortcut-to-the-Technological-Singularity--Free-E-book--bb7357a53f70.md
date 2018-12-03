@@ -1,18 +1,8 @@
-<article class="h-entry">
-
 <header>
 
 # Crowdsourcing As a Shortcut to the Technological Singularity (Free E-book)
 
 </header>
-
-<section data-field="subtitle" class="p-summary">Table of Contents:</section>
-
-<section data-field="body" class="e-content">
-
-<section name="2c70" class="section section--body section--first">
-
-<div class="section-divider">
 
 * * *
 
