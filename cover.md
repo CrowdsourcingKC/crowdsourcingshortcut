@@ -38,42 +38,4 @@
 
 [Afterward by Futawe](https://medium.com/@CrowdsourcingKC/forward-by-futawe-74768936be71)
 
-</div>
-
-</div>
-
-</section>
-
-<section name="5a2d" class="section section--body section--last">
-
-<div class="section-divider">
-
-* * *
-
-</div>
-
-<div class="section-content">
-
-<div class="section-inner sectionLayout--insetColumn">
-
-[_Next Chapter…_](https://medium.com/@CrowdsourcingKC/3643b1ab25e6)
-
-</div>
-
-</div>
-
-</section>
-
-</section>
-
-<footer>
-
-By [Casey Armstrong](https://medium.com/@CrowdsourcingKC) on [<time class="dt-published" datetime="2016-10-12T22:31:46.023Z">October 12, 2016</time>](https://medium.com/p/bb7357a53f70).
-
-[Canonical link](https://medium.com/@CrowdsourcingKC/crowdsourcing-as-a-shortcut-to-the-technological-singularity-free-e-book-bb7357a53f70)
-
-Exported from [Medium](https://medium.com) on October 29, 2018.
-
-</footer>
-
 </article>
