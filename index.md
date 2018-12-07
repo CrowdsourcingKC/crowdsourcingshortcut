@@ -1,8 +1,3 @@
----
-layout: page
-title: home
----
-
 # Crowdsourcing As a Shortcut to the Technological Singularity (Free E-book)
 
 **Table of Contents:**
