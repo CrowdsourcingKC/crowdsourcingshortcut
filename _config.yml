@@ -1,2 +1,3 @@
 title: Crowdsourcing as a Schortcut to the Technological Singularity (Free E-Book)
 theme: jekyll-theme-tactile
+exclude: "README.md"
