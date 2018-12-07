@@ -1,7 +1,5 @@
----
-layout: "page"
 theme: jekyll-theme-tactile
----
+
 <header>
 
 # Crowdsourcing As a Shortcut to the Technological Singularity (Free E-book)
