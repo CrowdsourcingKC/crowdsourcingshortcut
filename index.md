@@ -1,19 +1,3 @@
-theme: jekyll-theme-tactile
-
-<header>
-
-# Crowdsourcing As a Shortcut to the Technological Singularity (Free E-book)
-
-</header>
-
-* * *
-
-</div>
-
-<div class="section-content">
-
-<div class="section-inner sectionLayout--insetColumn">
-
 ### Crowdsourcing As a Shortcut to the Technological Singularity (Free E-book)
 
 **Table of Contents:**
@@ -39,5 +23,3 @@ theme: jekyll-theme-tactile
 [_Ch 8: Go Forth!_](https://medium.com/@CrowdsourcingKC/1f7b23ab0e8a) _&_ [_About the Author_](https://medium.com/@CrowdsourcingKC/71fa3ae18d27)
 
 [Afterward by Futawe](https://medium.com/@CrowdsourcingKC/forward-by-futawe-74768936be71)
-
-</article>
