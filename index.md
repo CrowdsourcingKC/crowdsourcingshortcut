@@ -1,6 +1,6 @@
 # Crowdsourcing As a Shortcut to the Technological Singularity (Free E-book)
 
-![alt text](https://miro.medium.com/max/2400/1*tIXgMY3ZB_wIu2nt6MRTuw.png)
+![Cover Art](https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/cover.jpeg)
 
 **Table of Contents:**
 
