@@ -13,7 +13,7 @@ Moreover, many people are excited (and many others scared) to see these things c
 
 But, it’s exactly here that I want to pause… because, in my opinion, this is a story that needs to be set-straight before it continues…
 
-What We Talk About vs. What We Want
+### What We Talk About vs. What We Want
 
 It’s easy to get caught-up in the technological-singularity debate, but when we think about the technologies involved, do we even know what our own wild imaginations are doing?
 
@@ -27,7 +27,7 @@ This is why I try not to get caught-up in, or even really aim my hopes toward a 
 
 I think that when we talk about this ‘singularity’, we actually mean something else.
 
-The Absurdularity Vs. 24/7 Happy-Party-Place
+### The Absurdularity Vs. 24/7 Happy-Party-Place
 
 Personally, I think what we really mean when we think and talk about the subject of all this rapid-progress is not ‘the singularity’; it’s something more akin to 1920’s style techno-utopia. In other words, I think most people are interested in making the world a 24/7 party-happy-place, and they’re seeing that technology might be the best thing to get us there.
 
@@ -40,19 +40,19 @@ When can we cure diseases?
 When can we stop or reverse aging?
 Furthermore, I think we can all agree that even if we are not in a hurry to reach the ‘absurdularity’, we are (and ought to be) in a hurry to reach techno-utopia.
 
-Luckily, There is a Shortcut
+### Luckily, There is a Shortcut
 
 So, when you’re in a hurry, it’s always nice to find a shortcut, right? Well, you will be pleased to know that there is one! It has been hiding in plain sight since 2005 (or earlier).
 
 Where? The answer is in an under-appreciated field of web-based technology called crowdsourcing.
 
-What is Crowdsourcing?
+### What is Crowdsourcing?
 
 Crowdsourcing is the outsourcing of a workflow to a crowd of people (as opposed to individuals or teams of people) usually over the internet.
 
 *(Since I mention it so often, I will use ‘CS’ as an abbreviation of ‘crowdsourcing’ throughout this book.)
 
-CS can be best understood by looking at 4 of its specific applications:
+### CS can be best understood by looking at 4 of its specific applications:
 
 1. Microtasking: Splitting a large project into smaller uniform tasks to be worked on, tasks usually taking up to a few-minutes to complete. The workers are usually paid with cash or other benefits, or they are volunteers.
 
@@ -64,7 +64,7 @@ CS can be best understood by looking at 4 of its specific applications:
 
 This book will take a look at how this 4-piece toolkit can help us reach tech-utopia dramatically faster.
 
-CS Tools Are in a Unique Position
+### CS Tools Are in a Unique Position
 
 With social-search, microtasking, crowdfunding, open-innovation, telepresence technologies, and task-routing methodologies, we can ramp-up the latest most promising technologies including big-data, robotics, and VR and AR, all tools which will, if empowered by us, change the world.
 
