@@ -1,5 +1,7 @@
 # The FAQ's
 
+<div style="text-align:center"><img src ="https://cdn-images-1.medium.com/max/1600/1*oDgx7SKwFajjHG1l-oYVHg.jpeg" /></div>
+
 ### Is This Worth Reading?
 
 If you do not currently live in a tech-fueled utopia, and if the abilities of machines do not yet match those of humans, then these words cannot be useless…
