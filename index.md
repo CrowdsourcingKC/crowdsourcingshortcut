@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src ="https://cdn-images-1.medium.com/max/1600/1*oDgx7SKwFajjHG1l-oYVHg.jpeg" /></div>
+<div style="text-align:center"><img src ="https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/cover.jpeg" /></div>
 
 **Table of Contents:**
 
