@@ -12,8 +12,7 @@ This book is for those who have already been convinced that technology is going 
 
 This book is for those interested in crowdsourcing, and it is for those looking for a shortcut to an exciting future.
 
-### Why Doesn’t This Book Cite Specific Companies, People, or Real-World
-Examples?
+### Why Doesn’t This Book Cite Specific Companies, People, or Real-World Examples?
 
 I have decided not to cite individual’s names or company names as much as possible. This book’s focus is on general trends in technology, and I do not want information associated with particular crowdsourcing and other tech-based products (especially the ones in the news at the time of your reading this) getting in the way of my main points.
 
