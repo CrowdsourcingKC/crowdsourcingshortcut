@@ -1,3 +1,6 @@
+---
+theme: page
+---
 # The FAQ's
 
 <div style="text-align:center"><img src ="https://cdn-images-1.medium.com/max/1600/1*oDgx7SKwFajjHG1l-oYVHg.jpeg" /></div>
