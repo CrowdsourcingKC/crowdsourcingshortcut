@@ -2,7 +2,7 @@
 title: The FAQ's
 ---
 
-<div style="text-align:center"><img src ="https://cdn-images-1.medium.com/max/1600/1*oDgx7SKwFajjHG1l-oYVHg.jpeg" height=200" /></div>
+<div style="text-align:center"><img src ="https://cdn-images-1.medium.com/max/1600/1*oDgx7SKwFajjHG1l-oYVHg.jpeg" height=200/></div>
 
 ### Is This Worth Reading?
 
