@@ -1,6 +1,5 @@
 ---
 title: The FAQ's
-theme: jekyll-theme-tactile
 ---
 # The FAQ's
 
