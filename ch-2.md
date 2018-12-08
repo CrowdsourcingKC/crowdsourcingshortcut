@@ -2,6 +2,7 @@ https://unsplash.com/photos/FRYBF9EWEsU
 Let’s Start with a Short Story…
 
 Social Search Takes a Walk
+
 You are walking down a concrete path leading into the park, and you remember to put on your augmented reality (AR) / video-streaming glasses…when a question pops into your mind.
 You say the question out loud, “What kind of tree is that?”
 Immediately an image of a smiling woman pops into the corner of your glasses’ AR-interface. It’s a profile picture, and under it is a text field which says, ‘Sarah, botany-geek’. And, there is more text under that which says,
@@ -16,6 +17,7 @@ You don’t know CPR, but you remember this new social search app has 911 operat
 You say into your microphone, “9–1–1 emergency!”, and immediately you are video-chatting with an EMT in your glasses, getting visual-directions-and-examples of exactly what to do.
 You manage to follow all the steps for CPR that were illustrated for you correctly, and “POP!”, out-comes the jawbreaker… The child takes a HUGE gasp of air. Everyone lets out a sigh of relief.
 That kid was darn-lucky you were wearing those glasses! The nearest emergency response team to help him would have been over 15 minutes away….
+
 What is Social-Search?
 As explained in Ch 1 of this book, social-search is a method of powering a search-engine using real-people to answer queries in real-time (or semi-real time).
 
@@ -27,6 +29,7 @@ Currently, a handful of question-and-answer sites (Q & A Sites), (like Quora, St
 
 https://www.pexels.com/photo/adolescence-attractive-beautiful-blur-573299/
 That’s Nice and All, but Let’s Upgrade!
+
 We can amp-up social-search / Q & A sites (and related services) in a number of ways using technology that we have today:
 
 Live Video: By using live video-feeds from glasses with AR (augmented reality) capabilities, we can share our view of the here and now, (i.e., whatever has our attention at that moment, the audio too) while getting feedback on it from crowds of people or individuals.
