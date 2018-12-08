@@ -73,7 +73,7 @@ Furthermore, I believe that with some decisive moves made by individuals and by 
 But first, let’s take a look at the appeal of CS in the next chapter to understand why it has been successful so far.
 …
 
-Footnote:
+**Footnote:**
 
 Where-how-and-why examples of how a technological-singularity would mean an end to ‘meaning’.
 
