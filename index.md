@@ -2,7 +2,7 @@
 
 **Table of Contents:**
 
-[_Cover Art_](https://medium.com/@CrowdsourcingKC/bb7357a53f70) _&_ [_FAQs_](https://medium.com/@CrowdsourcingKC/3643b1ab25e6)
+[_Cover Art_](https://crowdsourcingkc.github.io/crowdsourcingshortcut/) _&_ [_FAQs_](https://medium.com/@CrowdsourcingKC/3643b1ab25e6)
 
 [_Introduction_](https://medium.com/@CrowdsourcingKC/3f21b8145507)
 
