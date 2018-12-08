@@ -6,7 +6,7 @@ title: The FAQ's
 
 ### Is This Worth Reading?
 
-If you do not currently live in a tech-fueled utopia, and if the abilities of machines do not yet match those of humans, then these words cannot be useless…
+If you do not currently live in a tech-fueled utopia, and if the abilities of machines do not yet match those of humans, then these words cannot be useless!
 
 ### Who Should Read this Book?
 
