@@ -1,6 +1,3 @@
-<head>
-<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
-</head>
 <div style="text-align:center"><img src ="https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/cover.jpeg" /></div>
 
 **Table of Contents:**
