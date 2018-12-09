@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="https://github.com/CrowdsourcingKC/crowdsourcingshortcut/blob/master/images/favicon.ico">
 <div style="text-align:center"><img src ="https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/cover.jpeg" /></div>
 
 **Table of Contents:**
