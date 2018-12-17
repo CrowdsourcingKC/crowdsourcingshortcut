@@ -3,7 +3,7 @@ title: Chapter 1 The Appeal of Crowdsourcing & The Porcupine’s Dilemma
 ---
 <div style="text-align:center"><img src ="https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/ch1/porcupinedrawing.jpeg" /></div>
 
-<font size="20">I</font>s there anything as tense, as uncertain, or as potentially painful as interacting with our fellow man?
+<span style="font-size:larger;">I</span>s there anything as tense, as uncertain, or as potentially painful as interacting with our fellow man?
 
 Experience says no…
 
