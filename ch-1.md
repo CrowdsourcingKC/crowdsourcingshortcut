@@ -85,19 +85,22 @@ In the end, with a digital intermediary in place, both the asker and the asked a
 
 ![people joining hands in a pact](https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/ch1/ch1socialsearch.jpeg)
 
-https://www.pexels.com/photo/group-of-people-holding-hands-forming-teamwork-1083623/
-Porcupine Problem:
+
+**Porcupine Problem:**
 When you search for an answer to a question online, sometimes your algorithm-powered search-engine does not yield a helpful result. This is often because it doesn’t even know what you’re asking. It’s not like a human that can just make-up an improvised answer, and, if it doesn’t know, it can’t even give you advice to help further your search the way a person could).
 
 Let’s not pick on search engines though; when it comes to asking questions, individuals aren’t always particularly helpful either.
 
-One person can’t know all the answers. And, it isn’t practical to ask hundreds of people a difficult question until you find an answer.
-Even if you only need to ask a handful of people the question (before you know you’ll find a suitable answer), your peers do not always want to be bothered at random times with questions. Do they?
-CS Solution:
-Make question-asking is expected… with a platform where questions are routed to people who are ‘tagged’ as having a relevant interest in the topic you are asking about … or are in proximity to relevant details about something you’d like to know (e.g., the length of a line at a particular store/restaurant or event taking place at a certain time, etc.).
+- One person can’t know all the answers. And, it isn’t practical to ask hundreds of people a difficult question until you find an answer.
+- Even if you only need to ask a handful of people the question (before you know you’ll find a suitable answer), your peers do not always want to be bothered at random times with questions. Do they?
+
+**CS Solution:**
+
+Make question-asking is expected… with a platform where questions are routed to people who are ‘tagged’ as having a relevant interest in the topic you are asking about … or are in proximity to relevant details about something you’d like to know (e.g., the length of a line at a particular store/restaurant or event taking place at a certain time, etc..)
+
 In other words, ‘social-search’ makes question asking-and-answering a non-committal, more anonymous, and more convenient thing to do.
 
-Open-Innovation
+### Open-Innovation
 
 https://www.pexels.com/photo/business-money-innovation-icon-40218/
 Porcupine Problem:
