@@ -1,8 +1,7 @@
 ---
 title: Chapter 1 The Appeal of Crowdsourcing & The Porcupine’s Dilemma
 ---
-![Pencil Drawing of a Porcupine](https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/ch1/porcupinedrawing.jpeg)
-
+<div style="text-align:center"><img src ="https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/ch1/porcupinedrawing.jpeg" /></div>
 
 Is there anything as tense, as uncertain, or as potentially painful as interacting with our fellow man?
 
