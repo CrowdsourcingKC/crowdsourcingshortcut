@@ -26,6 +26,7 @@ Behold, the lesson to be learned from this, jaded though it may be, is the key t
 
 How does CS solve the Porcupine Dilemma?
 
+<div style="text-align:center"><img src ="https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/ch1/How%20does%20CS%20solve%20the%20Porcupine%20Dilemma.jpeg"/></div> 
 https://www.pexels.com/photo/arrows-box-business-chalk-533189/
 In Short, Two ways:
 1. It gives you the benefit of working and interacting with others
