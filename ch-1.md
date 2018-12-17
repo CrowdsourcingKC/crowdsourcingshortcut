@@ -17,15 +17,14 @@ So, obviously, this is a problem!
 
 A famous German philosopher from the 1800's, Arthur Schopenhauer, paints the picture perfectly with his parable, The Porcupine Dilemma…
 
-> A number of porcupines huddled together for warmth on a cold day in winter; but, as they began to prick one another with their quills, they were obliged to disperse. However, the cold drove them together again, when just the same thing happened.
->
-> At last, after many turns of huddling and dispersing, they discovered that they would be best off by remaining at a little distance from one another.
->
-> In the same way, the need of society drives the human porcupines together, only to be mutually repelled by the many prickly and disagreeable qualities of their nature. The moderate distance which they at last discover to be the only tolerable condition of intercourse, is the code of politeness and fine manners; and those who transgress it are roughly told — in the English phrase — to keep their distance.
-> By this arrangement, the mutual need of warmth is only very moderately satisfied; but then people do not get pricked.
->
-> Parerga und Paralipomena, Volume II, Chapter XXXI, Section 396:[1]
-> https://en.wikipedia.org/wiki/Hedgehog%27s_dilemma
+*A number of porcupines huddled together for warmth on a cold day in winter; but, as they began to prick one another with their quills, they were obliged to disperse. However, the cold drove them together again, when just the same thing happened.*
+
+*At last, after many turns of huddling and dispersing, they discovered that they would be best off by remaining at a little distance from one another.*
+
+*In the same way, the need of society drives the human porcupines together, only to be mutually repelled by the many prickly and disagreeable qualities of their nature. The moderate distance which they at last discover to be the only tolerable condition of intercourse, is the code of politeness and fine manners; and those who transgress it are roughly told — in the English phrase — to keep their distance.*
+*By this arrangement, the mutual need of warmth is only very moderately satisfied; but then people do not get pricked.*
+
+*Parerga und Paralipomena, Volume II, Chapter XXXI, Section 396:[1][https://en.wikipedia.org/wiki/Hedgehog%27s_dilemma](https://en.wikipedia.org/wiki/Hedgehog%27s_dilemma)*
 
 Behold, the lesson to be learned from this, jaded though it may be, is the key to understanding the value of internet based phenomena which is crowdsourcing! Furthermore, to understand the success of crowdsourcing, we have to recognize that it is a response to, and a solution to, the porcupine dilemma.
 
@@ -33,7 +32,7 @@ Behold, the lesson to be learned from this, jaded though it may be, is the key t
 
 <div style="text-align:center"><img src ="https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/ch1/How%20does%20CS%20solve%20the%20Porcupine%20Dilemma.jpeg"/></div> 
 <br/>
-In Short, Two ways:
+**In Short, Two ways:**
 
 1. It gives you the benefit of working and interacting with others
   while also giving you protection from the uncomfortable and awkward bits via, a digital-intermediary, a platform.
