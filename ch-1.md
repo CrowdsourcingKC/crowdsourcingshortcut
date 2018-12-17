@@ -7,7 +7,7 @@ title: Chapter 1 The Appeal of Crowdsourcing & The Porcupine’s Dilemma
 
 Experience says no…
 
-Yet, we also know, from experience, that our social-connections are the most valuable things we can ever have!
+Yet, we also know, from experience, that our social-connections are the most pleasurable and valuable things we can ever have!
 
 Not only have we evolved to be social-animals (who see social-interaction as having value as a thing-in-itself), but the practical advantages of cooperating with others are undeniably enormous.
 
