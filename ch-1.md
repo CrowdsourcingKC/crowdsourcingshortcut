@@ -60,24 +60,30 @@ Behold, the lesson to be learned from this, jaded though it may be, is the key t
 
 ![Woman sitting in chair with credit card and laptop](https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/ch1/ch1crowdfunding.jpeg)
 
+### Crowdfunding
 
-Crowdfunding
-Porcupine Problem:
+**Porcupine Problem:**
 Asking someone for money, whether it’s a donation, loan, or an investment, is always going to be awkward, and setting the terms of how exactly to transfer the funds is not only a tense situation; it’s a complicated one. It also requires a good amount of effort and communication.
 
-CS Solution:
+**CS Solution:**
 Allow people to make a generic plea to everyone, all at once (a kind of marketing campaign), and put it on a platform where others are doing the same (making it a socially-accepted behavior). It makes asking-for and giving money a social, safe, and fun activity.
-How does it do this?
 
-Re-framing: Crowdfunding makes the off-putting behavior that is ‘asking for money’ into something that is entertaining, expected, non-committal, and open.
-Social Proof: It allows ‘backers’ to look at the social-proof, the proof that shows it is something worthwhile and reliable, the proof that other human beings deem it a valuable endeavor run by a trustworthy individual. (It is “proof” that is usually won IRL after considerable snooping and getting to know someone).
-While it may save you from negative emotions, crowdfunding takes advantage of them too. (By negative, I mean emotions like pressure and fear.)
+**How does it do this?**
 
-The “fear” of contributing to someone’s failure.
-The “pressure” to act by a deadline.
+* **Re-framing:** Crowdfunding makes the off-putting behavior that is ‘asking for money’ into something that is entertaining, expected, non-committal, and open.
+* **Social Proof:** It allows ‘backers’ to look at the social-proof, the proof that shows it is something worthwhile and reliable, the proof that other human beings deem it a valuable endeavor run by a trustworthy individual. (It is “proof” that is usually won IRL after considerable snooping and getting to know someone).
+
+While it may save you from negative emotions, crowdfunding takes advantage of them too. (By negative, I mean emotions like pressure and fear.) 
+
+- The “fear” of contributing to someone’s failure.
+
+- The “pressure” to act by a deadline.
+
 In the end, with a digital intermediary in place, both the asker and the asked are more protected than not, within a crowdfunding platform, from negative emotions… The biggest of these emotions being the awkward-nervous feeling we get from inconveniencing someone or of being inconvenienced by someone /put-upon, etc.
 
-Social-Search
+### Social-Search
+
+![people joining hands in a pact](https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/ch1/ch1socialsearch.jpeg)
 
 https://www.pexels.com/photo/group-of-people-holding-hands-forming-teamwork-1083623/
 Porcupine Problem:
