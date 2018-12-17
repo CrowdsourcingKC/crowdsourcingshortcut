@@ -5,7 +5,7 @@ title: Chapter 1 The Appeal of Crowdsourcing & The Porcupine’s Dilemma
 
 <br>
 
-I**s there anything as tense, as uncertain, or as potentially painful as interacting with our fellow man?
+**I**s there anything as tense, as uncertain, or as potentially painful as interacting with our fellow man?
 
 Experience says no…
 
