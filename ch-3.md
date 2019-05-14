@@ -1,3 +1,6 @@
+---
+title: (Ch 3) Task Me the Money!
+---
 Let’s start with a short story…
 
 How Tiny Tasks got you a Tiny House…
