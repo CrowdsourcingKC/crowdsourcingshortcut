@@ -1,5 +1,5 @@
 ---
-title: CH 8 Go Forth!
+title: (Ch 8) Go Forth!
 ---
 ### Has This Book Sparked Your Interest?
 If any of this has sparked your interest, and you want to use crowdsourcing to reach a potentially positive future for humanity, here are some steps you can take to now make it happen:
