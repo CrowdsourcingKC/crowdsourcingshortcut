@@ -1,5 +1,5 @@
 ---
-title: You Were Promised Robots
+title: (Ch 5) You Were Promised Robots
 ---
 Let’s start with short story:
 
