@@ -1,4 +1,4 @@
-# Crowdsourcing As a Shortcut to the Technological Singularity
+# Crowdsourcing As a Shortcut to Techno-Utopia
 
 I am hosting my E-book on GitHub to encourage others to contribute to it.
 
