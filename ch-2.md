@@ -1,3 +1,6 @@
+---
+title: (Ch 2) Social Search and How to be Brilliant All the Time
+---
 https://unsplash.com/photos/FRYBF9EWEsU
 Let’s Start with a Short Story…
 
