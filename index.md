@@ -3,24 +3,26 @@
 
 **Table of Contents:**
 
-[_Cover Art_](https://crowdsourcingkc.github.io/crowdsourcingshortcut/) _&_ [_FAQs_](https://medium.com/@CrowdsourcingKC/3643b1ab25e6)
+[_Cover Art_](https://crowdsourcingkc.github.io/crowdsourcingshortcut/) _&_ [_FAQs_](https://crowdsourcingkc.github.io/crowdsourcingshortcut/faq)
 
-[_Introduction_](https://medium.com/@CrowdsourcingKC/3f21b8145507)
+[_Introduction_](https://crowdsourcingkc.github.io/crowdsourcingshortcut/introduction)
 
-[_Ch 1: The Appeal of Crowdsourcing & The Porcupine’s Dilemma_](https://medium.com/@CrowdsourcingKC/cdddc1efef10)
+[_Ch 1: The Appeal of Crowdsourcing & The Porcupine’s Dilemma_](https://crowdsourcingkc.github.io/crowdsourcingshortcut/ch-1)
 
-[_Ch 2: Social Search_](https://medium.com/@CrowdsourcingKC/74f05dfd5d25)
+[_Ch 2: Social Search_](https://crowdsourcingkc.github.io/crowdsourcingshortcut/ch-2)
 
-[_Ch 3: Task Me the Money_](https://medium.com/@CrowdsourcingKC/9dbffe0136e0)
+[_Ch 3: Task Me the Money_](https://crowdsourcingkc.github.io/crowdsourcingshortcut/ch-3)
 
-[_Ch 4: Open-Innovation_](https://medium.com/@CrowdsourcingKC/cdbe1a2b1f6b)
+[_Ch 4: Open-Innovation_](https://crowdsourcingkc.github.io/crowdsourcingshortcut/ch-4)
 
-[_Ch 5: You Were Promised Robots_](https://medium.com/@CrowdsourcingKC/57d060c8ede4)
+[_Ch 5: You Were Promised Robots_](https://crowdsourcingkc.github.io/crowdsourcingshortcut/ch-5)
 
-[_Ch 6: Big Data and Tiny Tasks_](https://medium.com/@CrowdsourcingKC/9a8f9b64b9da)
+[_Ch 6: Big Data and Tiny Tasks_](https://crowdsourcingkc.github.io/crowdsourcingshortcut/ch-6)
 
-[_Ch 7: How to Amp-Up Crowdsourcing with VR and Augmented Reality_](https://medium.com/@CrowdsourcingKC/d7459c9ad5c)
+[_Ch 7: How to Amp-Up Crowdsourcing with VR and Augmented Reality_](https://crowdsourcingkc.github.io/crowdsourcingshortcut/ch-7)
 
-[_Ch 8: Go Forth!_](https://medium.com/@CrowdsourcingKC/1f7b23ab0e8a) _&_ [_About the Author_](https://medium.com/@CrowdsourcingKC/71fa3ae18d27)
+[_Ch 8: Go Forth!_](https://crowdsourcingkc.github.io/crowdsourcingshortcut/ch-8) _&_ [_About the Author_](https://crowdsourcingkc.github.io/crowdsourcingshortcut/about-the-author)
 
-[Afterward by Futawe](https://medium.com/@CrowdsourcingKC/forward-by-futawe-74768936be71)
+[Afterward by Futawe](https://crowdsourcingkc.github.io/crowdsourcingshortcut/afterward-by-futawe)
+
+[Bonus Material Written by the Crowd, Coming Soon]
