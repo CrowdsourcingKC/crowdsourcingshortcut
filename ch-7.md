@@ -1,5 +1,5 @@
 ---
-title: CH 7 How to Amp-Up Crowdsourcing with VR and Augmented Reality
+title: (Ch 7) How to Amp-Up Crowdsourcing with VR and Augmented Reality
 ---
 
 Let’s start with a short story:
