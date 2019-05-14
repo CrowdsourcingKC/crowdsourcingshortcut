@@ -1,5 +1,5 @@
 ---
-title: Big Data, Tiny Tasks, and the Friggin’ Future Man!
+title: (Ch 6) Big Data, Tiny Tasks, and the Friggin’ Future Man!
 ---
 
 Let’s start with a short story:
