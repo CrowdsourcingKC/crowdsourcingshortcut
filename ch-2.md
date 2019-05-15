@@ -1,7 +1,7 @@
 ---
 title: (Ch 2) Social Search and How to be Brilliant All the Time
 ---
-<div style="text-align:center"><img src ="https://unsplash.com/photos/FRYBF9EWEsU" /></div>
+<div style="text-align:center"><img src ="https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/ch2/162zf779YjVfSHl6OCCleMA.jpeg" /></div>
 <br>
 Let’s Start with a Short Story…
 
