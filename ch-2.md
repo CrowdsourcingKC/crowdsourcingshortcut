@@ -31,7 +31,8 @@ Note: Social search is a phenomenon better known as “question and answer sites
 Currently, a handful of question-and-answer sites (Q & A Sites), (like Quora, Stack Overflow, and Yahoo Answers, etc.), have amassed large user-bases, and sites that facilitate seeking answers from the crowd continue to be popular.
 
 
-https://www.pexels.com/photo/adolescence-attractive-beautiful-blur-573299/
+<div style="text-align:center"><img src ="https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/ch2/19wMsZbNxWIv4dAkzqPEXuA.jpeg" alt="woman holding lights in her hands and staring into the camera" width="400" /></div>
+<br/>
 That’s Nice and All, but Let’s Upgrade!
 
 We can amp-up social-search / Q & A sites (and related services) in a number of ways using technology that we have today:
