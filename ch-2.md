@@ -32,7 +32,7 @@ Currently, a handful of question-and-answer sites (Q & A Sites), (like Quora, St
 
 
 <div style="text-align:center"><img src ="https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/ch2/19wMsZbNxWIv4dAkzqPEXuA.jpeg" alt="woman holding lights in her hands and staring into the camera" width="400" /></div>
-<br/>
+
 ### That’s Nice and All, but Let’s Upgrade!
 
 We can amp-up social-search / Q & A sites (and related services) in a number of ways using technology that we have today:
