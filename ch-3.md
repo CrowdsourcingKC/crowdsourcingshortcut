@@ -3,7 +3,7 @@ title: (Ch 3) Task Me the Money!
 ---
 Let’s start with a short story…
 
-How Tiny Tasks got you a Tiny House…
+### How Tiny Tasks got you a Tiny House…
 You and your significant-other are sitting in your tiny living room sipping cups of hot-chocolate and listening to some music.
 How did you get here?
 You can barely afford a studio-apartment! How are you now inside your own house?
@@ -19,7 +19,7 @@ Thanks to all these folks (and a good sense-of-community among them and you), yo
 It’s nice to know people care. Isn’t it?
 Let’s start at the beginning…
 
-What is Crowdfunding?
+### What is Crowdfunding?
 Most people in tech are now familiar with crowdfunding, but here’s a quick look at the forms it takes today:
 
 Donation: People pitch an idea or need to friends, family, and strangers online in order to solicit donations, pooling money to make something happen (e.g., a movie, an album, and invention, a project, etc).
@@ -30,10 +30,12 @@ Debt: Like ‘Equity’ but with the promise of repayment & the payment of inter
 
 Patronage: Like in days of old where the weatlhy were patrons to artists, crowdfunding Patrons support other people (especially artists) via repeating-payments so that they can continue a craft or activity without worrying about the bills as much, etc.
 
-Diagram: Microtasking>Cash>Donations>Crowdfunding = Changing the World!
+### Diagram: Microtasking>Cash>Donations>Crowdfunding = Changing the World!
 
 Task Me the Money Diagram
-How Crowdfunding is Pushing Us Toward the Future
+https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/ch3/1Ng-y4GuuZlbnZXDaUxrAnQ.jpeg
+
+### How Crowdfunding is Pushing Us Toward the Future
 Crowdfunding pushes us toward the future by giving inventors and other ‘Creators’ the ability to access capital from their fellow man.
 
 Prior to crowdfunding, asking for money was done in a much more formal way, and the funds came from less-distributed sources (i.e., rich people).
@@ -42,16 +44,16 @@ Remember, too, crowdfunding has been around for around 10 years, and, already, m
 
 Crowdfunding will continue to evolve, and it will continue to push the future forward by enabling thinkers, turning them into do-ers.
 
-What Microtasking Could Do for Crowdfunding: Tasking for Donation and Equity
+### What Microtasking Could Do for Crowdfunding: Tasking for Donation and Equity
 What people (and crowdfunding companies) don’t seem to realize is that you don’t actually need to have money to crowdfund…
 
 If microtasking was inserted into the crowdfunding process, then idleness (a free and abundant resource in our civilized world) could easily be turned into
 cash….
 In other words, crowdfunding-campaigns can all be funded by typing and clicking…. We just haven’t really tried it yet.
 
-
 https://unsplash.com/photos/Ev1XqeVL2wI
-Reminder: What is Microtasking?
+
+### Reminder: What is Microtasking?
 Microtasking is the splitting-up of large-projects into smaller uniform tasks to be worked on. Microtasks usually take up to a few minutes to complete.
 
 Some examples include: writing product descriptions (or other short-form content), identifying things in images, sorting data, answering questions, doing short-surveys, being asked for your
@@ -59,8 +61,9 @@ opinion, filtering negative-comments or obscene-content.
 
 However, with enough imagination, almost any job or project can be broken into microtasks.
 
-Could Crowdfunding Make Microtasking More Interesting to the Average Joe?
-Yes!
+### Could Crowdfunding Make Microtasking More Interesting to the Average Joe?
+
+Short answer: Yes!
 
 Microtasking is currently enjoying a moderate amount of popularity (yet not anywhere near as much as crowdfunding). Micro-volunteering is popular too.
 
@@ -72,12 +75,12 @@ Similarly, people would be highly-motivated to “task” if the cash-benefit wa
 
 These kinds of emotional, high-stakes situations would be a lot more motivating, especially when compared to the drudgery of typing, pointing, and clicking all night long just so you could earn yourself enough money to buy a sandwich.
 
-Tasker Becomes Requester
+### Tasker Becomes Requester
 Furthermore, introducing this concept to people for the first time, and getting more people interested in marketplaces for “microtasking” will get more average-Joe’s thinking about using it for themselves (for requesting tasks).
 
 Unlike large-corporations or tech-companies, people’s microtask-requests would probably be relatively simple… such as asking for help finding the cheapest price for something in their area , or requesting a unique pie-recipe, or research something important to them like the pros-and-cons of different career-training-programs, etc.
 People could also ask for slightly-larger tasks like editing a photo, writing something for them, or even making a song; it could be pretty flexible.
 
-How This All Leads Us to a Tech Utopia
+### How This All Leads Us to a Tech Utopia
 First, while at the same time increasing the microtasking-market, it will increase the cash-pool of crowdfunding, which we already know boosts innovation and pushes us toward the future.
 Second, it will introduce more people to the concept of ‘microtasking’ which is an activity (and a behavior) that is central to the idea of using crowdsourcing as a shortcut to the future of technology.
