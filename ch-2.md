@@ -5,7 +5,7 @@ title: (Ch 2) Social Search and How to be Brilliant All the Time
 <br>
 Let’s Start with a Short Story…
 
-Social Search Takes a Walk
+### Social Search Takes a Walk
 
 You are walking down a concrete path leading into the park, and you remember to put on your augmented reality (AR) / video-streaming glasses…when a question pops into your mind.
 You say the question out loud, “What kind of tree is that?”
@@ -22,7 +22,7 @@ You say into your microphone, “9–1–1 emergency!”, and immediately you ar
 You manage to follow all the steps for CPR that were illustrated for you correctly, and “POP!”, out-comes the jawbreaker… The child takes a HUGE gasp of air. Everyone lets out a sigh of relief.
 That kid was darn-lucky you were wearing those glasses! The nearest emergency response team to help him would have been over 15 minutes away….
 
-What is Social-Search?
+### What is Social-Search?
 As explained in Ch 1 of this book, social-search is a method of powering a search-engine using real-people to answer queries in real-time (or semi-real time).
 
 And, since search-via-algorithm (i.e., normal search-engines), although getting better every year, are ineffectual much of the time, it’s a compelling idea.
@@ -33,7 +33,7 @@ Currently, a handful of question-and-answer sites (Q & A Sites), (like Quora, St
 
 <div style="text-align:center"><img src ="https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/ch2/19wMsZbNxWIv4dAkzqPEXuA.jpeg" alt="woman holding lights in her hands and staring into the camera" width="400" /></div>
 <br/>
-That’s Nice and All, but Let’s Upgrade!
+### That’s Nice and All, but Let’s Upgrade!
 
 We can amp-up social-search / Q & A sites (and related services) in a number of ways using technology that we have today:
 
@@ -43,7 +43,8 @@ A Big Network: To ensure that a real-time social-search engine works, it will ne
 Different Options for Interacting: Not everyone will be able to broadcast video (sometimes called ‘life-casting’), or audio. Also, not everyone will be able to listen to you via audio, or view what you see through your video-stream, so there should always be a number of options for how to interact within a social-search community. This could include transcribing audio automatically using speech-recognition software, or having text be read out-loud (from the answers submitted to questions, etc) with a robot voice.
 
 Ch2’s Logic: You + Task Routing/Social Search and Life Streaming = Brilliant All the Time
-How Brilliant Can We Become?
+
+### How Brilliant Can We Become?
 With a tool like this in people’s hands (or in their eyes to be specific), we would all become brilliant all of the time as we listen to the crowd-powered agents whispering in our ears.
 
 The following are the key things we will be able to know with a system like this (i.e., the things that will make us brilliant):
@@ -80,7 +81,8 @@ or
 “Where’s s an example of really old crumbling sidewalk in this town? I need to take a picture of one for an art project.”
 
 https://www.pexels.com/photo/abstract-architecture-art-artistic-262577/
-How it Could Bring Us into the Future Faster?
+
+### How it Could Bring Us into the Future Faster?
 Armed with a robust social-search app in something like augmented reality glasses, the ability to quickly assess situations, get feedback, or inform your decisions will help the scientists, programmers, and leaders of today reach their visions for tech of tomorrow sooner.
 
 Furthermore, it will give novices the ability to become (or at least act like) virtual Q&A angels on the shoulders of experts in the aforementioned professions.
