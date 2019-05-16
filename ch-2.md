@@ -94,7 +94,7 @@ or
 > “Where’s s an example of really old crumbling sidewalk in this town? I need to take a picture of one for an art project.”
 >
 
-<div style="text-align:center"><img src ="https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/ch2/1yYhVhxRh-GTACEXeZxR1ZQ.jpeg" alt="diagram of chapter 2's logic" width="500" /></div>
+<div style="text-align:center"><img src ="https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/ch2/futuristicskyline.jpeg" alt="diagram of chapter 2's logic" width="500" /></div>
 
 ### How it Could Bring Us into the Future Faster?
 Armed with a robust social-search app in something like augmented reality glasses, the ability to quickly assess situations, get feedback, or inform your decisions will help the scientists, programmers, and leaders of today reach their visions for tech of tomorrow sooner.
