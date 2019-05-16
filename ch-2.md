@@ -64,7 +64,7 @@ An answer that requires a human’s opinion.
 
 “Do you think my Halloween costume is offensive?”
 
-<div style="text-align:center"><img src ="https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/ch2/1yYhVhxRh-GTACEXeZxR1ZQ.jpeg" alt="diagram of chapter 2's logic" width="500" /></div>
+![](<https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/ch2/1a4jxClQa88LVk2p6uHGb_g.png>)
 
 **Guidance:**
 A question that requires someone to guide you through an action:
