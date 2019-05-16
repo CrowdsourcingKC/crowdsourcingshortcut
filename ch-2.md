@@ -43,6 +43,8 @@ Real-Time Answers: Even without video or audio input (i.e., text only), for soci
 A Big Network: To ensure that a real-time social-search engine works, it will need people, preferably a lot of them! It would be best, then, to be able to tap into popular social-networking sites for this. That way, people with varying expertise can be found at all times to answer all the kinds of questions that show up.
 Different Options for Interacting: Not everyone will be able to broadcast video (sometimes called ‘life-casting’), or audio. Also, not everyone will be able to listen to you via audio, or view what you see through your video-stream, so there should always be a number of options for how to interact within a social-search community. This could include transcribing audio automatically using speech-recognition software, or having text be read out-loud (from the answers submitted to questions, etc) with a robot voice.
 
+<div style="text-align:center"><img src ="https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/ch2/1yYhVhxRh-GTACEXeZxR1ZQ.jpeg" alt="diagram of chapter 2's logic" width="500" /></div>
+
 Ch2’s Logic: You + Task Routing/Social Search and Life Streaming = Brilliant All the Time
 
 ### How Brilliant Can We Become?
