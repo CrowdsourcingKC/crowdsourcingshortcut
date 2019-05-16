@@ -52,7 +52,7 @@ With a tool like this in people’s hands (or in their eyes to be specific), we 
 
 The following are the key things we will be able to know with a system like this (i.e., the things that will make us brilliant):
 
-<div style="text-align:center"><img src ="https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/ch2/1yYhVhxRh-GTACEXeZxR1ZQ.jpeg" alt="diagram of chapter 2's logic" width="500" /></div>
+<div style="text-align:center"><img src ="https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/ch2/1jXYEMGP4HniIOyPhAsbkPQ.png" alt="symbolic question bubble"/></div>
 
 **Facts:**
 For facts that aren’t stored on some web-page, or facts that only a person would know, social-search is ideal.
