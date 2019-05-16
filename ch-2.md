@@ -82,7 +82,7 @@ the same thing:
 - Get information from people who have been where you are about to go.
 - Ask people about a specific experience they’ve had at that place.
 
-<div style="text-align:center"><img src ="https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/ch2/1a4jxClQa88LVk2p6uHGb_g.png" alt="phone displaying map app" /></div>
+<div style="text-align:center"><img src ="https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/ch2/1niXY1Kjd4pLaBMetMSaihA.png" alt="phone displaying map app" /></div>
 
 **Hyper-Local Information:**
 An answer that is time-and-location sensitive.
