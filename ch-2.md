@@ -64,13 +64,12 @@ An answer that requires a human’s opinion.
 
 “Do you think my Halloween costume is offensive?”
 
-![](<https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/ch2/1a4jxClQa88LVk2p6uHGb_g.png>)
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/ch2/1a4jxClQa88LVk2p6uHGb_g.png" alt="phone displaying map app"/></div>
 
 **Guidance:**
 A question that requires someone to guide you through an action:
 
 “How should I throw this boomerang so that it goes into the air at an angle and then comes right back to me (so I can catch it)?”
-
 
 
 **Experience:**
@@ -83,7 +82,7 @@ the same thing:
 - Get information from people who have been where you are about to go.
 - Ask people about a specific experience they’ve had at that place.
 
-<div style="text-align:center"><img src ="https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/ch2/1yYhVhxRh-GTACEXeZxR1ZQ.jpeg" alt="diagram of chapter 2's logic" width="500" /></div>
+<div style="text-align:center"><img src ="https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/ch2/1a4jxClQa88LVk2p6uHGb_g.png" alt="phone displaying map app" /></div>
 
 **Hyper-Local Information:**
 An answer that is time-and-location sensitive.
