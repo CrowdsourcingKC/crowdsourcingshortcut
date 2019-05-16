@@ -52,7 +52,7 @@ With a tool like this in people’s hands (or in their eyes to be specific), we 
 
 The following are the key things we will be able to know with a system like this (i.e., the things that will make us brilliant):
 
-![1jXYEMGP4HniIOyPhAsbkPQ](C:\Users\casey\Documents\GitHub\crowdsourcingshortcut\images\ch2\1jXYEMGP4HniIOyPhAsbkPQ.png)
+<div style="text-align:center"><img src ="https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/ch2/1yYhVhxRh-GTACEXeZxR1ZQ.jpeg" alt="diagram of chapter 2's logic" width="500" /></div>
 
 **Facts:**
 For facts that aren’t stored on some web-page, or facts that only a person would know, social-search is ideal.
@@ -64,7 +64,7 @@ An answer that requires a human’s opinion.
 
 “Do you think my Halloween costume is offensive?”
 
-![1a4jxClQa88LVk2p6uHGb_g](C:\Users\casey\Documents\GitHub\crowdsourcingshortcut\images\ch2\1a4jxClQa88LVk2p6uHGb_g.png)
+<div style="text-align:center"><img src ="https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/ch2/1yYhVhxRh-GTACEXeZxR1ZQ.jpeg" alt="diagram of chapter 2's logic" width="500" /></div>
 
 **Guidance:**
 A question that requires someone to guide you through an action:
@@ -83,7 +83,7 @@ the same thing:
 - Get information from people who have been where you are about to go.
 - Ask people about a specific experience they’ve had at that place.
 
-![1niXY1Kjd4pLaBMetMSaihA](C:\Users\casey\Documents\GitHub\crowdsourcingshortcut\images\ch2\1niXY1Kjd4pLaBMetMSaihA.png)
+<div style="text-align:center"><img src ="https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/ch2/1yYhVhxRh-GTACEXeZxR1ZQ.jpeg" alt="diagram of chapter 2's logic" width="500" /></div>
 
 **Hyper-Local Information:**
 An answer that is time-and-location sensitive.
@@ -95,7 +95,7 @@ or
 > “Where’s s an example of really old crumbling sidewalk in this town? I need to take a picture of one for an art project.”
 >
 
-![futuristicskyline](C:\Users\casey\Documents\GitHub\crowdsourcingshortcut\images\ch2\futuristicskyline.jpeg)
+<div style="text-align:center"><img src ="https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/ch2/1yYhVhxRh-GTACEXeZxR1ZQ.jpeg" alt="diagram of chapter 2's logic" width="500" /></div>
 
 ### How it Could Bring Us into the Future Faster?
 Armed with a robust social-search app in something like augmented reality glasses, the ability to quickly assess situations, get feedback, or inform your decisions will help the scientists, programmers, and leaders of today reach their visions for tech of tomorrow sooner.
