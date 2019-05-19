@@ -1,7 +1,7 @@
 ---
 title: (Ch 8) Go Forth!
 ---
-<div style="text-align:center"><img src ="" alt="" width="400" /></div>
+<div style="text-align:center"><img src ="https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/ch8/cover2.png" alt="" width="400" /></div>
 
 ### Has This Book Sparked Your Interest?
 If any of this has sparked your interest, and you want to use crowdsourcing to reach a potentially positive future for humanity, here are some steps you can take to now make it happen:
