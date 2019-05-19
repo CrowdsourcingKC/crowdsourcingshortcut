@@ -1,7 +1,7 @@
 ---
 title: (Ch 6) Big Data, Tiny Tasks, and the Friggin’ Future Man!
 ---
-<div style="text-align:center"><img src ="" alt="" width="400" /></div>
+<div style="text-align:center"><img src ="https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/ch6/131A8kkoh5atZmvAOo4bLCw.jpeg" alt="" width="400" /></div>
 
 Let’s start with a short story:
 
