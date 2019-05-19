@@ -1,7 +1,7 @@
 ---
 title: (Ch 5) You Were Promised Robots
 ---
-<div style="text-align:center"><img src ="" alt="" width="400" /></div>
+<div style="text-align:center"><img src ="https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/ch5/11DjG15wxtQOEtGcleOgJyw.jpeg" alt="" width="400" /></div>
 
 Let’s start with short story:
 
