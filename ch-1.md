@@ -1,3 +1,9 @@
+Chapters
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
 ---
 title: (Ch 1) The Appeal of Crowdsourcing & The Porcupine’s Dilemma
 ---
