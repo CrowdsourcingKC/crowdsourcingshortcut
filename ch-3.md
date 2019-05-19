@@ -1,7 +1,7 @@
 ---
 title: (Ch 3) Task Me the Money!
 ---
-<div style="text-align:center"><img src ="https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/ch3/1A90MXaUbZuu-2z7xWIqBdA.jpeg" /></div>
+<div style="text-align:center"><img src ="https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/ch3/1A90MXaUbZuu-2z7xWIqBdA.jpeg" alt="two people looking into a smartphone" width="400" /></div>
 
 Let’s start with a short story…
 
