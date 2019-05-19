@@ -1,6 +1,8 @@
 ---
 title: (Ch 4) Open Innovation and How Microtasking, Crowdfunding, and Cash-Prizes Can Take Us from the Flintstones to the Jetson’s
 ---
+<div style="text-align:center"><img src ="" alt="two people looking into a smartphone" width="400" /></div>
+
 Let’s start with a short story:
 
 ### How Open Innovation Got You Off The Cold Wet Ground
