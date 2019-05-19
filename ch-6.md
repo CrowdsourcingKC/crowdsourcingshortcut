@@ -1,6 +1,7 @@
 ---
 title: (Ch 6) Big Data, Tiny Tasks, and the Friggin’ Future Man!
 ---
+<div style="text-align:center"><img src ="" alt="" width="400" /></div>
 
 Let’s start with a short story:
 
