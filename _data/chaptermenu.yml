@@ -1,6 +1,3 @@
-sidebartitle: Chapters
+docs_list_title: ACME Documentation
 
-folders:
-
-- title: "Introduction"
-  url: https://crowdsourcingkc.github.io/crowdsourcingshortcut/introduction
+docs: https://crowdsourcingkc.github.io/crowdsourcingshortcut/introduction
