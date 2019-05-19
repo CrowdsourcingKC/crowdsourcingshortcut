@@ -1,6 +1,8 @@
 ---
 title: (Ch 3) Task Me the Money!
 ---
+<div style="text-align:center"><img src ="https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/ch3/1A90MXaUbZuu-2z7xWIqBdA.jpeg" /></div>
+
 Let’s start with a short story…
 
 ### How Tiny Tasks got you a Tiny House…
