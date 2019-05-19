@@ -1,6 +1,8 @@
 ---
 title: (Ch 5) You Were Promised Robots
 ---
+<div style="text-align:center"><img src ="" alt="" width="400" /></div>
+
 Let’s start with short story:
 
 Soup-Cans, Chore-Bots, and not Having to Get Up from the Couch…
