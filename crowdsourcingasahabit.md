@@ -1,3 +1,3 @@
 Food for thought...
 
-Crowdsourcing is a habit. How do I form a a crowdsourcing habit?
+Crowdsourcing is a habit. How do I form a crowdsourcing habit?
