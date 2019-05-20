@@ -1,7 +1,13 @@
 ---
 title: Introduction
 ---
-The technological-singularity, in whatever form it ends-up taking, is coming:
+<article>
+  <header>
+    <p><i><a href="https://crowdsourcingkc.github.io/crowdsourcingshortcut/">Cover</a>, <a href="https://crowdsourcingkc.github.io/crowdsourcingshortcut/introduction">Intro</a>, <a href="https://crowdsourcingkc.github.io/crowdsourcingshortcut/faq">FAQ</a>, <a href="https://crowdsourcingkc.github.io/crowdsourcingshortcut/ch-1">1</a>, <a href="https://crowdsourcingkc.github.io/crowdsourcingshortcut/ch-2">2</a>, <a href="https://crowdsourcingkc.github.io/crowdsourcingshortcut/ch-3">3</a>, <a href="https://crowdsourcingkc.github.io/crowdsourcingshortcut/ch-4">4</a>, <a href="https://crowdsourcingkc.github.io/crowdsourcingshortcut/ch-5">5</a>, <a href="https://crowdsourcingkc.github.io/crowdsourcingshortcut/ch-6">6</a>, <a href="https://crowdsourcingkc.github.io/crowdsourcingshortcut/ch-7">7</a>, <a href="https://crowdsourcingkc.github.io/crowdsourcingshortcut/ch-8">8</a>, <a href="https://crowdsourcingkc.github.io/crowdsourcingshortcut/about-the-author">About</a>, <a href="https://crowdsourcingkc.github.io/crowdsourcingshortcut/afterward-by-futawe">Afterward</a></i></p>
+  </header>
+</article>
+<hr>
+Techno-Utopia and/or the technological-singularity, in whatever form it ends-up taking, is coming:
 
 Artificial-intelligence will become very useful if not match, then surpass, human-intelligence.
 Robotics (nano and otherwise) will become a popular option for manipulating the physical-world around us.
