@@ -1,9 +1,11 @@
-Menu:
-<details>
-<summary>[Cover](https://www.google.com)</summary>
-<br>
-[Introduction](https://www.google.com)
-</details>
+<article>
+  <header>
+    <h1>Most important heading here</h1>
+    <h3>Less important heading here</h3>
+    <p>Some additional information here</p>
+  </header>
+  <p>Lorem Ipsum dolor set amet....</p>
+</article>
 ---
 title: (Ch 1) The Appeal of Crowdsourcing & The Porcupine’s Dilemma
 ---
