@@ -3,7 +3,7 @@ title: (Ch 1) The Appeal of Crowdsourcing & The Porcupine’s Dilemma
 ---
 <article>
   <header>
-    <h3>Intro, Ch1, CH2, </h3>
+    <p>Chapters: <a href="https://crowdsourcingkc.github.io/crowdsourcingshortcut/introduction">Intro</a>, Ch1, CH2, </p>
   </header>
 </article>
 <div style="text-align:center"><img src ="https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/ch1/porcupinedrawing.jpeg" /></div>
