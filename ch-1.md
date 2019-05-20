@@ -1,14 +1,11 @@
-<article>
-  <header>
-    <h1>Most important heading here</h1>
-    <h3>Less important heading here</h3>
-    <p>Some additional information here</p>
-  </header>
-  <p>Lorem Ipsum dolor set amet....</p>
-</article>
 ---
 title: (Ch 1) The Appeal of Crowdsourcing & The Porcupine’s Dilemma
 ---
+<article>
+  <header>
+    <h3>Intro, Ch1, CH2, </h3>
+  </header>
+</article>
 <div style="text-align:center"><img src ="https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/ch1/porcupinedrawing.jpeg" /></div>
 
 <br>
