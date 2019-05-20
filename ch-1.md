@@ -1,8 +1,8 @@
-Chapters
+Menu:
 <details>
-<summary>How do I dropdown?</summary>
+<summary>[Cover](https://www.google.com)</summary>
 <br>
-This is how you dropdown.
+[Introduction](https://www.google.com)
 </details>
 ---
 title: (Ch 1) The Appeal of Crowdsourcing & The Porcupine’s Dilemma
