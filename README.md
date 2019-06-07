@@ -11,7 +11,14 @@ Blog post coming soon to announce the project... Stay tuned!
 
 ## About
 
-Coming soon...
+When I decided to write a book about the future of crowdsourcing, I also decided to practice As a writer of developer documentation, I am comfortable with the concept of version control and with using GitHub because those are tools that my audience uses every day. Furthermore, I understand its value as a tool for collaboration. In addition, I know how to navigate the world of open-source software and get involved with the community. I wanted to share this knowledge and skill with my fellow writers.what I preach. I am making this book open-source, and I am hosting it here on GitHub so that, you, the crowd can contribute to it. 
+
+## My Ulterior Motive
+
+As a budding writer of developer documentation, I am now comfortable with the concept of version control and with using GitHub because those are tools that my audience uses every day. Furthermore, I understand its value as a tool for collaboration. In addition, I know how to navigate the world of open-source software and get involved with the community. I want to share this knowledge and skill with you, my fellow writers.
+
+Feel free to make updates, change the content, or alter the presentation of the book.
+See the contribution guidelines to see how you can get started.
 
 ## Table of Contents
 
