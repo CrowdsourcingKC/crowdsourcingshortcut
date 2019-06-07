@@ -27,7 +27,7 @@ Coming soon:
 
 Coming soon:
 
-If you want to contribute, [open issues can be found here][] or suggest your own! Here are [guidelines for contributing][]. Please alos refer to the [code of conduct]().
+If you want to contribute, [open issues can be found here][https://github.com/CrowdsourcingKC/crowdsourcingshortcut/issues] or suggest your own! Here are [guidelines for contributing][CONTRIBUTING.md]. Please alos refer to the [code of conduct]().
 
 ## Technologies
 
