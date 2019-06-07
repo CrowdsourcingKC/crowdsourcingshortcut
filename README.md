@@ -11,9 +11,11 @@ Blog post coming soon to announce the project... Stay tuned!
 
 ## About
 
-In the ...
+Coming soon...
 
 ## Table of Contents
+
+Coming soon:
 
 - [Code of Conduct]()
 - [Contributing]()
@@ -21,9 +23,11 @@ In the ...
 
 ## Contributing
 
-This site is built with **a**.
+Coming soon:
 
-If you are interested in contributing, [open issues can be found here][issues] or suggest your own! Here are [guidelines for contributing][]. You can also make sure your contributions are up to our standards by referring to the [code of conduct]().
+This site is built with.
+
+If you want to contribute, [open issues can be found here][] or suggest your own! Here are [guidelines for contributing][]. Please alos refer to the [code of conduct]().
 
 ## Technologies
 
