@@ -7,7 +7,7 @@ It was previously [hosted on Medium](https://medium.com/@CrowdsourcingKC/crowdso
 
 Blog post coming soon to announce the project... Stay tuned!
 
-<div style="text-align:center"><img src ="https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/cover.png" alt="book cover" width="400"/></div>
+<div style="text-align:center"><img src ="https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/cover.png" alt="book cover" width="350"/></div>
 
 ## About
 
