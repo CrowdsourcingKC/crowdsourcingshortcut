@@ -20,14 +20,14 @@ See the contribution guidelines to see how you can get started.
 Coming soon:
 
 - [Code of Conduct]()
-- [Contributing]()
+- [Contributing](https://github.com/CrowdsourcingKC/crowdsourcingshortcut/blob/master/CONTRIBUTING.md)
 - [License]()
 
 ## Contributing
 
 Coming soon:
 
-If you want to contribute, [open issues can be found here][https://github.com/CrowdsourcingKC/crowdsourcingshortcut/issues] or suggest your own! Here are [guidelines for contributing][CONTRIBUTING.md]. Please alos refer to the [code of conduct]().
+If you want to contribute, [open issues can be found here](https://github.com/CrowdsourcingKC/crowdsourcingshortcut/issues) or suggest your own! Here are [guidelines for contributing](https://github.com/CrowdsourcingKC/crowdsourcingshortcut/blob/master/CONTRIBUTING.md). Please alos refer to the [code of conduct]().
 
 ## Technologies
 
