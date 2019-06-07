@@ -1,11 +1,6 @@
 # Crowdsourcing As a Shortcut to Techno-Utopia
 
-I am hosting my E-book on GitHub to encourage others to contribute to it.
-
-It was previously [hosted on Medium](https://medium.com/@CrowdsourcingKC/crowdsourcing-as-a-shortcut-to-the-technological-singularity-free-e-book-bb7357a53f70).
-
-
-Blog post coming soon to announce the project... Stay tuned!
+I am hosting my E-book on GitHub to encourage others to contribute to it. (It was previously [hosted on Medium](https://medium.com/@CrowdsourcingKC/crowdsourcing-as-a-shortcut-to-the-technological-singularity-free-e-book-bb7357a53f70).)
 
 <div style="text-align:center"><img src ="https://raw.githubusercontent.com/CrowdsourcingKC/crowdsourcingshortcut/master/images/cover.png" alt="book cover" width="350"/></div>
 
@@ -38,4 +33,9 @@ If you want to contribute, [open issues can be found here][] or suggest your own
 
 - Markdown
 - GitHubPages
-- Jekyll
+- Jekyll/YAML
+- HTML
+
+## Blog Post
+
+I wrote a blog post about this project if you'd like to read about it... (coming soon)
