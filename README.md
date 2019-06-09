@@ -8,16 +8,25 @@ This E-book is hosted on GitHub to encourage others to contribute to it. (Note: 
 
 When I decided to write a book about the future of crowdsourcing, I also decided to practice what I preach! I am making this book open-source, and I am hosting it here on GitHub so that, you, the crowd, can contribute to it.
 
-## My Ulterior Motive
+## My Ulterior Motives
 
-As a budding writer of developer documentation, I am now comfortable with the concept of version control and with using GitHub (as a tool for collaboration) because those are tools that my audience uses every day. In addition, I know how to navigate the world of open-source software and get involved with the community. It was not easy getting here! Now, I want to pay it forward and share this knowledge and skill with you, my fellow writers. I'm excited to see what you come up with!
+As a budding writer of developer documentation, I am comfortable with the concept of version control and with using GitHub (as a tool for collaboration) because those are tools that my audience uses every day. (It was not easy getting here!)
 
-Feel free to make updates, change the content, or alter the presentation of the book.
-See the contribution guidelines to see how you can get started.
+With this project, I want to give other budding writers a chance to learn:
+
+- How to navigate the world of open-source software / get involved with the community.
+- How to use Git and GitHub
+
+## What changes are you looking for?
+
+Feel free to:
+- make updates
+- Change the content
+- Alter the appearance of the book (changes to the Jekyll theme or HTML tricks)
+
+See the contribution guidelines to see how you can get started. I'm excited to see what you come up with!
 
 ## Table of Contents
-
-Coming soon:
 
 - [Code of Conduct]()
 - [Contributing](https://github.com/CrowdsourcingKC/crowdsourcingshortcut/blob/master/CONTRIBUTING.md)
