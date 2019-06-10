@@ -1,7 +1,5 @@
 ## Contributing
----
-Note: this is where the book lives online: https://crowdsourcingkc.github.io/crowdsourcingshortcut/
----
+
 If you want to contribute:
 - [Open issues can be found here](https://github.com/CrowdsourcingKC/crowdsourcingshortcut/issues) or suggest your own! 
 - If it's a small update or simple change, just go for it.
@@ -21,6 +19,8 @@ https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6z
 ### Warning!
 
 This is the first time I have created an open-source project, and I will be learning as I go : )
+
+Note: this is where the book lives online: https://crowdsourcingkc.github.io/crowdsourcingshortcut/
 
 ---
 #### More specific instructions coming soon...
