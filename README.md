@@ -24,7 +24,7 @@ Feel free to:
 - Change the content
 - Alter the appearance of the book (changes to the Jekyll theme or HTML tricks)
 
-See the contribution guidelines to see how you can get started. I'm excited to see what you come up with!
+See the [contribution guidelines](https://github.com/CrowdsourcingKC/crowdsourcingshortcut/blob/master/CONTRIBUTING.md) to see how you can get started. I'm excited to see what you come up with!
 
 ## Table of Contents
 
