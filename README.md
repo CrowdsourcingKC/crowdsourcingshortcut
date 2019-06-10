@@ -10,19 +10,19 @@ When I decided to write a book about the future of crowdsourcing, I also decided
 
 ## My Ulterior Motives
 
-As a budding writer of developer documentation, I am comfortable with the concept of version control and with using GitHub (as a tool for collaboration) because those are tools that my audience uses every day. (It was not easy getting here!)
+As a budding writer of developer documentation, I have become comfortable with using GitHub (as a tool for collaboration/version-control) because it is a tool that my audience uses every day. It was not easy getting here!
 
 With this project, I want to give other budding writers a chance to learn:
 
 - How to navigate the world of open-source software / get involved with the community.
-- How to use Git and GitHub
+- How to use Git, GitHub, and learn about version control as a concept.
 
 ## What changes are you looking for?
 
 Feel free to:
-- Make updates
-- Change the content
-- Alter the appearance of the book (changes to the Jekyll theme or HTML tricks)
+- Make updates that improve readability, clarity, and the enjoyability of the book.
+- Change the content to better reflect reality.
+- Alter the appearance of the book (changes to the Jekyll theme or HTML tricks).
 
 See the [contribution guidelines](https://github.com/CrowdsourcingKC/crowdsourcingshortcut/blob/master/CONTRIBUTING.md) to see how you can get started. I'm excited to see what you come up with!
 
