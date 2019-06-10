@@ -20,7 +20,7 @@ With this project, I want to give other budding writers a chance to learn:
 ## What changes are you looking for?
 
 Feel free to:
-- make updates
+- Make updates
 - Change the content
 - Alter the appearance of the book (changes to the Jekyll theme or HTML tricks)
 
@@ -28,16 +28,16 @@ See the [contribution guidelines](https://github.com/CrowdsourcingKC/crowdsourci
 
 ## Table of Contents
 
-- [Code of Conduct]()
+- [Code of Conduct](https://github.com/CrowdsourcingKC/crowdsourcingshortcut/blob/master/CODE_OF_CONDUCT.md)
 - [Contributing](https://github.com/CrowdsourcingKC/crowdsourcingshortcut/blob/master/CONTRIBUTING.md)
-- [License]()
+- [License](https://github.com/CrowdsourcingKC/crowdsourcingshortcut/blob/master/LICENSE.md)
 
 ## Technologies
 
-- Markdown
-- GitHubPages
-- Jekyll/YAML
-- HTML
+- [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [GitHubPages](https://pages.github.com/)
+- [Jekyll/YAML](https://jekyllrb.com/)
+- [HTML](https://www.w3schools.com/html/)
 
 ## Blog Post
 
