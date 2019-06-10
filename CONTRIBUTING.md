@@ -1,7 +1,7 @@
 ## Contributing
 
 If you want to contribute:
-- [open issues can be found here](https://github.com/CrowdsourcingKC/crowdsourcingshortcut/issues) or suggest your own! 
+- [Open issues can be found here](https://github.com/CrowdsourcingKC/crowdsourcingshortcut/issues) or suggest your own! 
 - If it's a small update or simple change, just go for it.
 - Please also refer to the [code of conduct](https://github.com/CrowdsourcingKC/crowdsourcingshortcut/blob/master/CODE_OF_CONDUCT.md).
 
