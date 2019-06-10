@@ -9,6 +9,10 @@ New to Git and Github? Check out this beginner friendly tutorial series, "Git an
 
 https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
 
-More instructions coming soon...
+# Warning!
+
+This is the first time I have created an open source project, and I will be learning a I go : )
+
+# More specific instructions coming soon...
 
 <!--- for inspiration, check out https://github.com/renepickhardt/The-Lightning-Network-Book/blob/master/CONTRIBUTING.md --->
