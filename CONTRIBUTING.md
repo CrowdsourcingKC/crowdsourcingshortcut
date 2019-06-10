@@ -1,5 +1,5 @@
 ## Contributing
-
+---
 Note: this is where the book lives online: https://crowdsourcingkc.github.io/crowdsourcingshortcut/
 ---
 If you want to contribute:
