@@ -10,11 +10,13 @@ Feel free to:
 - Change the content to better reflect reality.
 - Alter the appearance of the book (changes to the Jekyll theme or HTML tricks).
 
-New to Git and Github? Check out this beginner friendly tutorial series, "Git and Github for Poets"
+### New to Git and Github? 
+
+Check out this beginner friendly tutorial series, "Git and Github for Poets"
 
 https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
 
-# Warning!
+### Warning!
 
 This is the first time I have created an open source project, and I will be learning as I go : )
 
