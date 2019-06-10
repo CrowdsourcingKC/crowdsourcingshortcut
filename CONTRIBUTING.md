@@ -6,6 +6,6 @@ New to Git and Github? Check out this tutorial series, Git and Github for Poets:
 
 https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
 
-More Coming soon:
+More instructions coming soon...
 
 <!--- for inspiration, check out https://github.com/renepickhardt/The-Lightning-Network-Book/blob/master/CONTRIBUTING.md --->
