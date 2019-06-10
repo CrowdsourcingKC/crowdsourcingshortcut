@@ -1,6 +1,13 @@
-## Contributing
+# Contributing
 
-If you want to contribute:
+### Background:
+To understand how to contribute, it might help to understand the book's current state. I recently migrated the content of this book from  [Medium.com](https://medium.com/@CrowdsourcingKC/crowdsourcing-as-a-shortcut-to-the-technological-singularity-free-e-book-bb7357a53f70).)
+
+I had to then download it as HTML and change it to Markdown. This meant that I lost a lot of the formatting. so, you will see things like missing images, a lack of headings, broken links, etc. If you see this, feel free to correct it! 
+
+If you are working with images, I did manage to put most or all images in [this repo's images folder](https://github.com/CrowdsourcingKC/crowdsourcingshortcut/tree/master/images).
+
+### If you want to contribute:
 - [Open issues can be found here](https://github.com/CrowdsourcingKC/crowdsourcingshortcut/issues) or suggest your own! 
 - If it's a small update or simple change, just go for it.
 - Please also refer to the [code of conduct](https://github.com/CrowdsourcingKC/crowdsourcingshortcut/blob/master/CODE_OF_CONDUCT.md).
