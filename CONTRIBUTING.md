@@ -1,7 +1,7 @@
 ## Contributing
 
 Note: this is where the book lives online: https://crowdsourcingkc.github.io/crowdsourcingshortcut/
-
+---
 If you want to contribute:
 - [Open issues can be found here](https://github.com/CrowdsourcingKC/crowdsourcingshortcut/issues) or suggest your own! 
 - If it's a small update or simple change, just go for it.
