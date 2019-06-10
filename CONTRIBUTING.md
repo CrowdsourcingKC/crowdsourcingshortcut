@@ -3,6 +3,8 @@
 ### Background:
 To understand how to contribute, it might help to understand the book's current state. I recently migrated the content of this book from  [Medium.com](https://medium.com/@CrowdsourcingKC/crowdsourcing-as-a-shortcut-to-the-technological-singularity-free-e-book-bb7357a53f70).)
 
+Comparing the two versions can help you edit. For example, [check out Ch 5 (here)](https://crowdsourcingkc.github.io/crowdsourcingshortcut/ch-5) Vs [CH5(on Medium)](https://medium.com/@CrowdsourcingKC/ch-5-you-were-promised-robots-57d060c8ede4)
+
 I had to then download it as HTML and change it to Markdown. This meant that I lost a lot of the formatting. so, you will see things like missing images, a lack of headings, broken links, etc. If you see this, feel free to correct it! 
 
 If you are working with images, I did manage to put most or all images in [this repo's images folder](https://github.com/CrowdsourcingKC/crowdsourcingshortcut/tree/master/images).
