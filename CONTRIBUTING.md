@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6z
 
 # Warning!
 
-This is the first time I have created an open source project, and I will be learning a I go : )
+This is the first time I have created an open source project, and I will be learning as I go : )
 
 #### More specific instructions coming soon...
 
