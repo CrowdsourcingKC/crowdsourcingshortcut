@@ -41,4 +41,4 @@ See the [contribution guidelines](https://github.com/CrowdsourcingKC/crowdsourci
 
 ## Blog Post
 
-I wrote a blog post about this project if you'd like to read about it... (coming soon)
+I wrote a blog post about this project if you'd like to read about it... https://medium.com/the-documentarian-planetarium/7-reasons-why-i-am-open-sourcing-my-ebook-about-the-future-of-work-e856023cf1a
